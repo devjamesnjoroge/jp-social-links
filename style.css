@@ -53,7 +53,7 @@ main{
 }
 
 .main__lower-part{
-    padding-top: 1rem;
+    padding-top: 2rem;
 }
 
 img{
@@ -62,7 +62,7 @@ img{
     border-radius: 50%;
 }
 
-h2{
+h1{
     font-weight: 700;
     color: var(--White);
 }
@@ -70,6 +70,7 @@ h2{
 span{
     font-weight: 600;
     color: var(--Green);
+    margin-bottom: 1rem;
 }
 
 main p{
