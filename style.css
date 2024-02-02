@@ -64,12 +64,12 @@ img{
 
 h2{
     font-weight: 700;
-    color: var(--Green);
+    color: var(--White);
 }
 
 span{
     font-weight: 600;
-    color: var(--White);
+    color: var(--Green);
 }
 
 main p{
@@ -86,7 +86,7 @@ main a{
     display: block;
     width: 100%;
     text-align: center;
-    padding: 0.714rem 0;
+    padding: 1rem 0;
     border-radius: 5px;
 }
 
